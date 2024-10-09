@@ -17,8 +17,8 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --global user.name 'Alysson Kennedy'
-        git config --global user.email 'seu-email@example.com'
+        git config --global user.name 'AlyssonKennedy744'
+        git config --global user.email 'alysson.kennedy@sempreceub.com'
         git add README.md
         git commit -m "Atualização automática do README"
         git push
